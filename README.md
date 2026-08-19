@@ -18,7 +18,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="Funbio_Equipo_01/Recursos/Imágines/grupo.jpg" />
+<img width="1408" height="768" src="Funbio_Equipo_01/Recursos/Imágenes/grupo.jpg" alt="Imagen grupo" >
   <em>Figura 1. Fotografía del equipo 01</em>
 </p>
 
@@ -28,11 +28,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+|<img  src="Funbio_Equipo_01/Recursos/Imágenes/116134.jpg" alt="Imagen 116134" width="90"   > | **Eliane Caceres** | Líder del equipo | Innovación social, sostenibilidad |
+| <img  src="Funbio_Equipo_01/Recursos/Imágenes/116142.jpg" alt="Imagen 116142" width="90"   > | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img  src="Funbio_Equipo_01/Recursos/Imágenes/116178.jpg" alt="Imagen 116178" width="90"   > | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img  src="Funbio_Equipo_01/Recursos/Imágenes/116181.jpg" alt="Imagen 116181" width="90"   >  | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img  src="Funbio_Equipo_01/Recursos/Imágenes/116183.jpg" alt="Imagen 116183" width="90"   > | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
