@@ -29,7 +29,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 |<img  src="Funbio_Equipo_01/Recursos/Imágenes/116134.jpg" alt="Imagen 116134" width="90"   > | **Eliane Caceres** | Líder del equipo | Innovación social, sostenibilidad |
-| <img  src="Funbio_Equipo_01/Recursos/Imágenes/116142.jpg" alt="Imagen 116142" width="90"   > | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img  src="Funbio_Equipo_01/Recursos/Imágenes/116142.jpg" alt="Imagen 116142" width="90"   > | **María Casas** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img  src="Funbio_Equipo_01/Recursos/Imágenes/116178.jpg" alt="Imagen 116178" width="90"   > | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img  src="Funbio_Equipo_01/Recursos/Imágenes/116181.jpg" alt="Imagen 116181" width="90"   >  | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 | <img  src="Funbio_Equipo_01/Recursos/Imágenes/116183.jpg" alt="Imagen 116183" width="90"   > | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
