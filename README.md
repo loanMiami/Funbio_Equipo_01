@@ -1,26 +1,25 @@
-# Equipo 01 - Nombre del curso
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+# Equipo 01 - Fundamentos de Biodiseño
+### Carrera de Ingeniería Biomedica
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 01** del curso **Nombre del curso 202X-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 01** del curso **Fundamentos de Biodiseño 2026-**, conformado por estudiantes de la carrera de Ingeniería Biomedica.
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
 - ODS 3: Salud y Bienestar  
-- ODS 6: Agua Limpia y Saneamiento  
 - ODS 9: Industria, Innovación e Infraestructura  
 - ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 13: Acción por el Clima  
+
 
 ---
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
-  <em>Figura 1. Fotografía del equipo 0X</em>
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="Funbio_Equipo_01/Recursos/Imágines/grupo.jpg" />
+  <em>Figura 1. Fotografía del equipo 01</em>
 </p>
 
 ---
