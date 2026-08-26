@@ -7,21 +7,21 @@ DEPARTAMENTO ACADÉMICO DE INGENIERÍA
 ## ENTREGABLE N°01
 
 ## TÍTULO
+ ASPECTOS ANATÓMICOS/FISIOLÓGICOS, FACTORES DE LA ENFERMEDAD Y ANÁLISIS DE PREVENCIÓN, DIAGNÓSTICO, TRATAMIENTO Y MONITOREO
 
-## ASPECTOS ANATÓMICOS/FISIOLÓGICOS, FACTORES DE LA ENFERMEDAD Y ANÁLISIS DE PREVENCIÓN, DIAGNÓSTICO, TRATAMIENTO Y MONITOREO
 
+
+## AUTORES
 Arias Abad, Marcos Miguel Arroyo Pino, Thiago Valentino
 
 Arrunategui Cajahuaringa, Fernando Tito Baldeón Casas, María Fernanda Barco Robles, Nicolas Matias Caceres Vasquez, Eliane Alexa
-
-## AUTORES
 
 ## GRUPO 1
 
 ## CURSO
 Fundamentos de Biodiseño
 
-AÑO
+## AÑO
 
 2026
 
