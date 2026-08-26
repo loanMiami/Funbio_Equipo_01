@@ -18,13 +18,14 @@ Arrunategui Cajahuaringa, Fernando Tito Baldeón Casas, María Fernanda Barco Ro
 
 ## GRUPO 1
 
+## CURSO
 Fundamentos de Biodiseño
 
 AÑO
 
 2026
 
-## CURSO
+
 
 
 ## 1) Ficha de la condición clínica
@@ -91,7 +92,7 @@ Para una prevención efectiva, se protocoliza la realización de pruebas periód
 
 Otros aspectos complementarios dentro del esquema de seguimiento incluyen la urodinamia periódica en casos seleccionados para evaluar presiones intravesicales de riesgo, el análisis uroanalítico rutinario ante sospecha de procesos infecciosos y el control de la adherencia a las terapias de vaciado (como el cateterismo intermitente) [20], [21].
 
-## 4) Reflexión ingenieril.
+## 4) Reflexión ingenieril
 
 En pacientes con lesión medular completa a nivel T10 (AIS A) que adicionalmente han sufrido una hemipelvectomía derecha, la autonomía en la movilidad mediante silla de ruedas se ve drásticamente comprometida por una alteración biomecánica estructural: la pérdida
 
