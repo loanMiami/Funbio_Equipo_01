@@ -140,28 +140,7 @@ Existe la necesidad de un sistema de acople biomecánico y contención postural 
 
 - [14] Switzerland: World Health Organization, 2013. Disponible en: https://iris.who.int/bitstream/handle/10665/94190/9789241564663_eng.pdf World Health Organization, International Perspectives on Spinal Cord Injury. Geneva,
 
-- [15] M. Mitchell, S. O’Brien, y L. Jones, «Pressure ulcer prevention and management in complex pelvic and lower limb trauma: A clinical update», Journal of Wound Care, vol. 33,
-
-
-n.º [URL 🔗](https://www.sciencedirect.com/science/article/pii/S0965206X24000883)
-
-2, [URL 🔗](https://www.sciencedirect.com/science/article/pii/S0965206X24000883)
-
-pp. [URL 🔗](https://www.sciencedirect.com/science/article/pii/S0965206X24000883)
-
-112–120, [URL 🔗](https://www.sciencedirect.com/science/article/pii/S0965206X24000883)
-
-2024. [URL 🔗](https://www.sciencedirect.com/science/article/pii/S0965206X24000883)
-
-[En [URL 🔗](https://www.sciencedirect.com/science/article/pii/S0965206X24000883)
-
-línea]. [URL 🔗](https://www.sciencedirect.com/science/article/pii/S0965206X24000883)
-
-Disponible
-
-en:
-
-[https://www.sciencedirect.com/science/article/pii/S0965206X24000883](https://www.sciencedirect.com/science/article/pii/S0965206X24000883)
+- [15] M. Mitchell, S. O’Brien, y L. Jones, «Pressure ulcer prevention and management in complex pelvic and lower limb trauma: A clinical update», Journal of Wound Care, vol. 33, n.º 2, pp. 112–120, 2024. Disponible en: (https://www.sciencedirect.com/science/article/pii/S0965206X24000883)
 
 - [16] Z. Chen, Y. Liu, X. Wang, y H. Zhang, «Management of mucosal integrity and peristomal skin complications in complex gastrointestinal surgery», International Wound Journal, vol. 20, n.º 6, pp. e14109, 2023. [En línea]. Disponible en: https://onlinelibrary.wiley.com/doi/10.1111/iwj.14109 [URL 🔗](https://onlinelibrary.wiley.com/doi/10.1111/iwj.14109)
 
