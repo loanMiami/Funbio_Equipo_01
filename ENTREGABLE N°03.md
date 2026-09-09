@@ -1,0 +1,220 @@
+**UNIVERSIDAD PERUANA CAYETANO HEREDIA**
+
+**FACULTAD DE CIENCIAS E INGENIERÍA** 
+
+![][image1]
+
+DEPARTAMENTO ACADÉMICO DE INGENIERÍA
+
+**ENTREGABLE N°03**
+
+**TÍTULO**
+
+**ENTENDIENDO AL USUARIO 2**
+
+**AUTORES**
+
+Arias Abad, Marcos Miguel
+
+Arroyo Pino, Thiago Valentino
+
+Arrunategui Cajahuaringa, Fernando Tito
+
+Baldeón Casas, María Fernanda
+
+Barco Robles, Nicolas Matias
+
+Caceres Vasquez, Eliane Alexa 
+
+**GRUPO 1**
+
+**CURSO**
+
+Fundamentos de Biodiseño
+
+**AÑO**  
+                                               2026
+
+**CASO 1: Hemipelvectomía traumática con lesión de piso pélvico y derivación digestiva/urinaria**
+
+**2\. Perfil funcional:**
+
+Paciente joven con pérdida de un miembro inferior y alteración importante de la región pélvica, que después de superar la fase quirúrgica necesita adaptarse a la silla de ruedas y recuperar progresivamente su independencia en las actividades diarias. 
+
+**3\. Mapa de actividades críticas:**
+
+Antes del accidente, el paciente podía desplazarse de manera independiente y realizar actividades personales, sociales y académicas o laborales. Después del accidente y de las múltiples intervenciones quirúrgicas, la hemipelvectomía, la colostomía y la cistostomía generan cambios importantes en su rutina y nivel de autonomía.
+
+Durante la rehabilitación, las actividades críticas se centran en adaptarse al uso de la silla de ruedas, realizar transferencias de forma segura, mantener una adecuada sedestación y desplazarse en diferentes espacios. También debe recuperar progresivamente su independencia en la higiene personal, el vestido, el uso del baño y el manejo de sus dispositivos de derivación.
+
+**4\. Barreras y facilitadores:**
+
+Físicas
+
+1. Hemipelvectomía derecha.  
+2. Pérdida completa del miembro inferior derecho.  
+3. Destrucción de la cintura pélvica.  
+4. Lesión severa del periné.  
+5. Lesión uretral.  
+6. Necesidad de colostomía y cistostomía.  
+7. Proceso quirúrgico prolongado.  
+8. Necesidad de adaptarse a la silla de ruedas.
+
+Funcionales
+
+1. Dificultad para realizar transferencias.  
+2. Dificultad para desplazarse.  
+3. Necesidad de aprender nuevas formas de realizar actividades cotidianas.  
+4. Dependencia potencial de otras personas durante la recuperación.
+
+### Facilitadores
+
+1. Sobrevivió al trauma inicial.  
+2. Tratamiento quirúrgico especializado.  
+3. Cierre de la lesión mediante colgajo miocutáneo.  
+4. Programa prolongado de rehabilitación.  
+5. Uso de silla de ruedas como medio de movilidad.  
+6. Posibilidad de entrenamiento para recuperar independencia.
+
+**5\. Mapa de dolor (pain points):**
+
+### Pain points físicos
+
+1. Trauma pélvico severo.  
+2. Heridas y tejidos desvitalizados.  
+3. Proceso de múltiples intervenciones quirúrgicas.  
+4. Lesión del piso pélvico.  
+5. Lesión uretral.  
+6. Proceso prolongado de curaciones.
+
+###  Pain points funcionales
+
+1. Pérdida del miembro inferior derecho.  
+2. Dificultad para desplazarse.  
+3. Adaptación a la silla de ruedas.  
+4. Dificultad para realizar transferencias.  
+5. Necesidad de modificar la manera de realizar actividades cotidianas.  
+6. Manejo de colostomía y cistostomía.
+
+**6\. Expectativas del usuario (simuladas o tomadas de la literatura):**
+
+### Expectativas funcionales
+
+1. Poder recuperar la autonomía.  
+2. Poder utilizar la silla de ruedas con seguridad.  
+3. Poder realizar transferencias sin depender constantemente de otra persona.  
+4. Recuperar independencia en higiene, vestido y otras actividades personales.  
+5. Adaptarse a la nueva condición física.  
+6. Poder acceder al baño y otros espacios de manera segura.
+
+### Expectativas de autonomía
+
+1. Recuperar el control sobre sus actividades cotidianas.  
+2. Disminuir la dependencia de familiares o cuidadores.  
+3. Poder desenvolverse en diferentes espacios.  
+4. Volver progresivamente a sus actividades sociales y laborales.
+
+### Expectativa principal
+
+> Recuperar la mayor independencia posible después de la hemipelvectomía y aprender a desenvolverse de manera segura utilizando una silla de ruedas.
+
+**CASO 2: Paraplejia completa**
+
+**2.Perfil funcional:**
+
+Paraplejía T10 AIS A (completa). Anestesia total por debajo de T10 y en zona perineal/pélvica derecha.
+
+Postura: Ausencia de hemiarco pélvico derecho (sin isquión). Genera inclinación pélvica y escoliosis neuromuscular reactiva en sedente.Locomoción: 100% independiente en silla de ruedas manual. Marcha protésica descartada por alto gasto energético y falta de control pélvico.
+
+AVD: Conserva fuerza e independencia en miembros superiores. Dependiente en transferencias complejas y manejo de esfínteres (portador de colostomía y prótesis peneana con válvula). 
+
+**3\. Mapa de actividades críticas**
+
+Sedestación: Posicionamiento en silla de ruedas (6-8 hrs) usando cojín asimétrico o cesta pélvica (Pelvic Bucket) para alinear el tronco.
+
+Transferencias: Desplazamiento Cama a Silla a Baño sostenido únicamente por la fuerza de la cintura escapular.
+
+Cuidado Cutáneo/Estomas: Alivio de presión cada 15-20 min e higiene de colostomía, zona de injertos y área perineal.
+
+Bipedestación: Bipedestación estática asistida con andador/ortesis para salud vascular, digestiva y ósea.
+
+**4\. Barreras y facilitadores**
+
+Barreras:
+
+1. Pérdida del punto de apoyo óseo isquiático derecho.  
+2. Alto riesgo de úlceras por presión (UPP) en el isquión sano (izquierdo) e injertos.  
+3. Interferencia de la colostomía con cinturones o cinchas de sujeción pélvica.  
+4. Barreras arquitectónicas en el entorno urbano y transporte.
+
+Facilitadores:
+
+1. \-Buena potencia muscular en brazos y hombros.  
+2. \-Cesta pélvica/asiento adaptado con ventana para la bolsa de colostomía.  
+3. \-Atención multidisciplinaria en rehabilitación integral (INR).  
+4. \-Red de apoyo familiar motivada en el hogar.
+
+**5\. Mapa de dolor**
+
+1. Colapso Postural: Fatiga muscular en tronco/espalda por la inclinación continua hacia el lado amputado.  
+2. Hiperpresión Isquiática: Carga de peso concentrada al 100% en el único isquión presente (izquierdo).  
+3. Dolor Neuropático/Fantasma: Combinación de dolor medular paroxístico con sensación de miembro fantasma pélvico.  
+4. Impacto Psicoemocional: Alteración de la imagen corporal y pérdida de autonomía en la higiene íntima/sexual.
+
+**6\. Expectativas del usuario (simuladas o tomadas de la literatura)**
+
+1. Sedestación Confortable: Lograr estar sentado de forma prolongada sin dolor dorsal ni colapso de tronco.  
+2. Autonomía en Transferencias: Moverse e ingresar a la cama, silla o vehículo sin depender de la fuerza física de un familiar.  
+3. Integridad Cutánea: Prevenir úlceras e infecciones en zonas de injerto, colostomía y periné.  
+4. Bipedestación Terapéutica: Erguirse de forma asistida para interacción visual de frente y mejora intestinal.  
+5. Reintegración: Lograr independencia en AVD, orientación laboral y salud sexual.
+
+**CASO 3: D**
+
+**([https://pubmed.ncbi.nlm.nih.gov/22768424/](https://pubmed.ncbi.nlm.nih.gov/22768424/))**
+
+**1\. Descripción breve del caso.** 
+
+El caso corresponde a un paciente masculino de 60 años con paraplejia secundaria a lesión medular, asociado a amputación parcial de la pelvis derecha y desarticulación de cadera izquierda. Su principal limitación funcional era la incapacidad para mantener una sedestación estable debido a la asimetría pélvica. Para mejorar esta condición se diseñó un socket protésico transpelviano tipo bucket, con estructura rígida y revestimiento blando, orientado a estabilizar el tronco, redistribuir las presiones y facilitar el manejo de la estoma y cistostomía. Después de dos meses de entrenamiento rehabilitador, el paciente recuperó la independencia en las actividades de la vida diaria, incluida la conducción. 
+
+**2\. Perfil funcional**
+
+Las principales capacidades conservadas fueron la función de los miembros superiores, necesaria para el autocuidado, transferencias y manejo del socket, así como la capacidad de adquirir una sedestación estable mediante el dispositivo. El paciente logró colocarse y retirarse el socket de manera independiente y recuperar actividades de la vida diaria y conducción. Sus principales limitaciones estaban relacionadas con la paraplejia, la ausencia funcional de los miembros inferiores y la alteración anatómica de la pelvis, que inicialmente impedía la sedestación. Además, presenta un riesgo elevado de lesiones por presión, por lo que son importantes el control de la piel, la redistribución de cargas y los cambios de posición. 
+
+**3\. Mapa de actividades críticas**
+
+Las actividades críticas del paciente se pueden organizar en cuatro categorías. En vida diaria, el vestido puede realizarse de manera independiente después del entrenamiento, aunque requiere mantener una sedestación estable y utilizar estrategias adaptadas por la ausencia de miembros inferiores; esto favorece su autonomía y privacidad. La higiene personal también puede realizarse con independencia, aunque las transferencias y el mantenimiento del equilibrio representan dificultades; su adecuada ejecución contribuye a la autonomía y bienestar personal. La movilidad dentro del hogar y las transferencias requieren el uso de silla de ruedas y entrenamiento específico, debido a la paraplejia y alteración pélvica, siendo fundamentales para desplazarse entre cama, silla y otras superficies. \[1\]
+
+En actividades laborales/educativas y participación comunitaria, la conducción constituye una actividad relevante, que el paciente logró realizar de manera independiente después de la rehabilitación; la principal dificultad corresponde a las transferencias hacia el vehículo y las adaptaciones necesarias, mientras que su recuperación favorece considerablemente la autonomía y participación social. El desplazamiento fuera del hogar puede realizarse mediante silla de ruedas y vehículo adaptado, aunque la accesibilidad del entorno puede representar una barrera. Finalmente, la participación en actividades sociales o laborales realizadas en sedestación puede verse favorecida por la recuperación de una posición estable, aunque su ejecución dependerá de las características del entorno y de las demandas de la actividad. \[6\]
+
+En rehabilitación, el entrenamiento de sedestación y control postural es prioritario; inicialmente requiere asistencia debido a la inestabilidad pélvica, pero posteriormente puede realizarse de forma independiente con el socket, permitiendo ejecutar otras actividades con mayor seguridad. El entrenamiento de transferencias requiere inicialmente asistencia parcial y progresivamente busca la independencia, siendo importante para la movilidad cotidiana. Asimismo, el entrenamiento para colocarse y retirarse el socket pasó a realizarse de manera independiente, aunque requiere coordinación y fuerza de los miembros superiores; esto disminuye la dependencia de terceros. \[6\]
+
+En actividades terapéuticas de prevención y mantenimiento, la inspección de la piel debe realizarse de forma independiente o con asistencia para zonas de difícil visualización, debido al riesgo de lesiones por presión; su cumplimiento permite prevenir complicaciones cutáneas. Los alivios periódicos de presión y cambios de posición deben incorporarse a la rutina de movilidad en silla de ruedas, requiriendo entrenamiento para ejecutarlos correctamente y reduciendo el riesgo de úlceras por presión. Finalmente, el control del ajuste y estado del socket debe realizarse regularmente, idealmente de manera independiente con supervisión profesional periódica; las dificultades pueden incluir presión localizada, humedad o irritación, por lo que su adecuado manejo permite utilizar el dispositivo de forma segura y prolongada. \[6,7\]
+
+En conjunto, estas actividades muestran que la intervención protésica no se limita a mejorar la posición corporal, sino que favorece la independencia funcional, disminuye la necesidad de asistencia y amplía la participación del paciente en actividades domésticas y comunitarias.
+
+**4\. Barreras y facilitadores**
+
+Las principales barreras físicas son la paraplejia, la pérdida extensa de estructuras pélvicas, la dificultad para mantener el equilibrio sentado y el riesgo de lesiones cutáneas. También pueden existir barreras ambientales, como escaleras, baños no adaptados o transporte inaccesible, aunque estas no fueron descritas específicamente en el caso. Entre los facilitadores destacan la conservación de la función de los miembros superiores, la rehabilitación especializada y, principalmente, el socket transpelviano personalizado, que proporciona estabilidad, redistribuye las presiones y permite su colocación independiente. 
+
+**5\. Mapa de dolor (Pain Points)**
+
+Los principales puntos críticos funcionales fueron la incapacidad inicial para sentarse, la necesidad de controlar continuamente las presiones sobre los tejidos residuales, la dificultad potencial de las transferencias y la dependencia inicial para utilizar el dispositivo. No debe asumirse la presencia de dolor intenso, ya que el artículo no proporciona una escala específica de dolor. La incomodidad y el riesgo de lesión cutánea constituyen, por tanto, puntos críticos más sustentados por la evidencia del caso. 
+
+**6\. Expectativas del usuario** 
+
+Las expectativas funcionales pueden inferirse de los objetivos de la intervención: recuperar una sedestación estable y confortable, realizar las actividades de la vida diaria con mayor independencia, colocarse y retirarse el socket sin asistencia, prevenir lesiones cutáneas y recuperar la movilidad y participación comunitaria. El resultado obtenido fue favorable, ya que el paciente consiguió independencia en las actividades de la vida diaria y conducción después del programa rehabilitador. 
+
+**REFERENCIAS BIBLIOGRÁFICAS:**
+
+\[1\] R. Siemens and L. M. Flint Jr., "Traumatic hemipelvectomy: a case report," *J. Trauma*, vol. 17, no. 3, pp. 245–247, Mar. 1977\.
+
+\[2\] M. T. Houdek *et al.*, "Functional outcome measures of patients following hemipelvectomy," *Prosthet. Orthot. Int.*, vol. 40, no. 1, pp. 88–94, Feb. 2016\.
+
+\[3\] R. J. Schoderbek *et al.*, "Traumatic hemipelvectomy: case report and literature review," *Arch. Orthop. Trauma Surg.*, vol. 125, no. 5, pp. 358–362, Jun. 2005\.
+
+\[4\] G. Rodríguez-Morales *et al.*, "Traumatic hemipelvectomy: report of two survivors and review," *J. Trauma*, vol. 23, no. 7, pp. 615–620, Jul. 1983\.
+
+\[5\] O. Temizsoy *et al.*, "Management of a large traumatic hemipelvectomy defect with anterolateral thigh flap," *Ulus. Travma Acil Cerrahi Derg.*, vol. 30, no. 3, 2024\.
+
+[image1]: <data:image/png;base64,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>
