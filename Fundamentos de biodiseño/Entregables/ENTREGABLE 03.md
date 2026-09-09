@@ -189,11 +189,11 @@ Las principales barreras físicas son la paraplejia, la pérdida extensa de estr
 
 **5\. Mapa de dolor (Pain Points)**
 
-Los principales puntos críticos funcionales fueron la incapacidad inicial para sentarse, la necesidad de controlar continuamente las presiones sobre los tejidos residuales, la dificultad potencial de las transferencias y la dependencia inicial para utilizar el dispositivo. No debe asumirse la presencia de dolor intenso, ya que el artículo no proporciona una escala específica de dolor. La incomodidad y el riesgo de lesión cutánea constituyen, por tanto, puntos críticos más sustentados por la evidencia del caso. \[6\]
+Los principales puntos críticos funcionales fueron la incapacidad inicial para sentarse, la necesidad de controlar continuamente las presiones sobre los tejidos residuales, la dificultad potencial de las transferencias y la dependencia inicial para utilizar el dispositivo. No debe asumirse la presencia de dolor intenso, ya que el artículo no proporciona una escala específica de dolor. La incomodidad y el riesgo de lesión cutánea constituyen, por tanto, puntos críticos más sustentados por la evidencia del caso.
 
 **6\. Expectativas del usuario** 
 
-Las expectativas funcionales pueden inferirse de los objetivos de la intervención: recuperar una sedestación estable y confortable, realizar las actividades de la vida diaria con mayor independencia, colocarse y retirarse el socket sin asistencia, prevenir lesiones cutáneas y recuperar la movilidad y participación comunitaria. El resultado obtenido fue favorable, ya que el paciente consiguió independencia en las actividades de la vida diaria y conducción después del programa rehabilitador. \[6\]
+Las expectativas funcionales pueden inferirse de los objetivos de la intervención: recuperar una sedestación estable y confortable, realizar las actividades de la vida diaria con mayor independencia, colocarse y retirarse el socket sin asistencia, prevenir lesiones cutáneas y recuperar la movilidad y participación comunitaria. El resultado obtenido fue favorable, ya que el paciente consiguió independencia en las actividades de la vida diaria y conducción después del programa rehabilitador. 
 
 **REFERENCIAS BIBLIOGRÁFICAS:**
 
