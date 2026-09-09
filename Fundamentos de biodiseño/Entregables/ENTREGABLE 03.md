@@ -35,119 +35,113 @@ Fundamentos de Biodiseño
 **AÑO**  
                                                2026
 
-### **CASO 1: Hemipelvectomía traumática con lesión de piso pélvico y derivación digestiva/urinaria**
+**CASO 1: Hemipelvectomía traumática con lesión de piso pélvico y derivación digestiva/urinaria**
 
-### **2\. Perfil funcional:**
+**2\. Perfil funcional:**
 
-### Paciente joven con pérdida de un miembro inferior y alteración importante de la región pélvica, que después de superar la fase quirúrgica necesita adaptarse a la silla de ruedas y recuperar progresivamente su independencia en las actividades diarias. 
+Paciente joven con pérdida de un miembro inferior y alteración importante de la región pélvica, que después de superar la fase quirúrgica necesita adaptarse a la silla de ruedas y recuperar progresivamente su independencia en las actividades diarias. 
 
-### **3\. Mapa de actividades críticas:**
+**3\. Mapa de actividades críticas:**
 
-### Antes del accidente, el paciente podía desplazarse de manera independiente y realizar actividades personales, sociales y académicas o laborales. Después del accidente y de las múltiples intervenciones quirúrgicas, la hemipelvectomía, la colostomía y la cistostomía generan cambios importantes en su rutina y nivel de autonomía.
+Antes del accidente, el paciente podía desplazarse de manera independiente y realizar actividades personales, sociales y académicas o laborales. Después del accidente y de las múltiples intervenciones quirúrgicas, la hemipelvectomía, la colostomía y la cistostomía generan cambios importantes en su rutina y nivel de autonomía.
 
-### Durante la rehabilitación, las actividades críticas se centran en adaptarse al uso de la silla de ruedas, realizar transferencias de forma segura, mantener una adecuada sedestación y desplazarse en diferentes espacios. También debe recuperar progresivamente su independencia en la higiene personal, el vestido, el uso del baño y el manejo de sus dispositivos de derivación.
+Durante la rehabilitación, las actividades críticas se centran en adaptarse al uso de la silla de ruedas, realizar transferencias de forma segura, mantener una adecuada sedestación y desplazarse en diferentes espacios. También debe recuperar progresivamente su independencia en la higiene personal, el vestido, el uso del baño y el manejo de sus dispositivos de derivación.
 
-### **4\. Barreras y facilitadores:**
+**4\. Barreras y facilitadores:**
 
-### Físicas: Hemipelvectomía derecha. Pérdida completa del miembro inferior derecho.Destrucción de la cintura pélvica. Lesión severa del periné. Lesión uretral. Necesidad de colostomía y cistostomía. Proceso quirúrgico prolongado. Necesidad de adaptarse a la silla de ruedas.
+Físicas: Hemipelvectomía derecha. Pérdida completa del miembro inferior derecho.Destrucción de la cintura pélvica. Lesión severa del periné. Lesión uretral. Necesidad de colostomía y cistostomía. Proceso quirúrgico prolongado. Necesidad de adaptarse a la silla de ruedas.
 
-### Funcionales: Dificultad para realizar transferencias. Dificultad para desplazarse. Necesidad de aprender nuevas formas de realizar actividades cotidianas. Dependencia potencial de otras personas durante la recuperación.
+Funcionales: Dificultad para realizar transferencias. Dificultad para desplazarse. Necesidad de aprender nuevas formas de realizar actividades cotidianas. Dependencia potencial de otras personas durante la recuperación.
 
-### Facilitadores: Sobrevivió al trauma inicial. Tratamiento quirúrgico especializado. Cierre de la lesión mediante colgajo miocutáneo. Programa prolongado de rehabilitación. Uso de silla de ruedas como medio de movilidad. Posibilidad de entrenamiento para recuperar independencia.
+Facilitadores: Sobrevivió al trauma inicial. Tratamiento quirúrgico especializado. Cierre de la lesión mediante colgajo miocutáneo. Programa prolongado de rehabilitación. Uso de silla de ruedas como medio de movilidad. Posibilidad de entrenamiento para recuperar independencia.
 
-### **5\. Mapa de dolor (pain points):**
+**5\. Mapa de dolor (pain points):**
 
-### Pain points físicos: Trauma pélvico severo. Heridas y tejidos desvitalizados. Proceso de múltiples intervenciones quirúrgicas. Lesión del piso pélvico. Lesión uretral. Proceso prolongado de curaciones.
+Pain points físicos: Trauma pélvico severo. Heridas y tejidos desvitalizados. Proceso de múltiples intervenciones quirúrgicas. Lesión del piso pélvico. Lesión uretral. Proceso prolongado de curaciones.
 
-### Pain points funcionales: Pérdida del miembro inferior derecho. Dificultad para desplazarse. Adaptación a la silla de ruedas. Dificultad para realizar transferencias. Necesidad de modificar la manera de realizar actividades cotidianas. Manejo de colostomía y cistostomía.
+Pain points funcionales: Pérdida del miembro inferior derecho. Dificultad para desplazarse. Adaptación a la silla de ruedas. Dificultad para realizar transferencias. Necesidad de modificar la manera de realizar actividades cotidianas. Manejo de colostomía y cistostomía.
 
-### 
+**6\. Expectativas del usuario (simuladas o tomadas de la literatura):**
 
-### **6\. Expectativas del usuario (simuladas o tomadas de la literatura):**
+Expectativas funcionales: Poder recuperar la autonomía. Poder utilizar la silla de ruedas con seguridad. Poder realizar transferencias sin depender constantemente de otra persona. Recuperar independencia en higiene, vestido y otras actividades personales. Adaptarse a la nueva condición física. Poder acceder al baño y otros espacios de manera segura.
 
-### Expectativas funcionales: Poder recuperar la autonomía. Poder utilizar la silla de ruedas con seguridad. Poder realizar transferencias sin depender constantemente de otra persona. Recuperar independencia en higiene, vestido y otras actividades personales. Adaptarse a la nueva condición física. Poder acceder al baño y otros espacios de manera segura.
+Expectativas de autonomía: Recuperar el control sobre sus actividades cotidianas. Disminuir la dependencia de familiares o cuidadores. Poder desenvolverse en diferentes espacios. Volver progresivamente a sus actividades sociales y laborales.
 
-### Expectativas de autonomía: Recuperar el control sobre sus actividades cotidianas. Disminuir la dependencia de familiares o cuidadores. Poder desenvolverse en diferentes espacios. Volver progresivamente a sus actividades sociales y laborales.
+Expectativa principal: Recuperar la mayor independencia posible después de la hemipelvectomía y aprender a desenvolverse de manera segura utilizando una silla de ruedas.
 
-### Expectativa principal: Recuperar la mayor independencia posible después de la hemipelvectomía y aprender a desenvolverse de manera segura utilizando una silla de ruedas.
+**CASO 2: Paraplejia completa**
 
-### **CASO 2: Paraplejia completa**
+**2.Perfil funcional:**
 
-### **2.Perfil funcional:**
+Paraplejía T10 AIS A (completa). Anestesia total por debajo de T10 y en zona perineal/pélvica derecha.
 
-### Paraplejía T10 AIS A (completa). Anestesia total por debajo de T10 y en zona perineal/pélvica derecha.
+Postura: Ausencia de hemiarco pélvico derecho (sin isquión). Genera inclinación pélvica y escoliosis neuromuscular reactiva en sedente.Locomoción: 100% independiente en silla de ruedas manual. Marcha protésica descartada por alto gasto energético y falta de control pélvico.
 
-### Postura: Ausencia de hemiarco pélvico derecho (sin isquión). Genera inclinación pélvica y escoliosis neuromuscular reactiva en sedente.Locomoción: 100% independiente en silla de ruedas manual. Marcha protésica descartada por alto gasto energético y falta de control pélvico.
+AVD: Conserva fuerza e independencia en miembros superiores. Dependiente en transferencias complejas y manejo de esfínteres (portador de colostomía y prótesis peneana con válvula). 
 
-### AVD: Conserva fuerza e independencia en miembros superiores. Dependiente en transferencias complejas y manejo de esfínteres (portador de colostomía y prótesis peneana con válvula). 
+**3\. Mapa de actividades críticas**
 
-### **3\. Mapa de actividades críticas**
+Sedestación: Posicionamiento en silla de ruedas (6-8 hrs) usando cojín asimétrico o cesta pélvica (Pelvic Bucket) para alinear el tronco.
 
-### Sedestación: Posicionamiento en silla de ruedas (6-8 hrs) usando cojín asimétrico o cesta pélvica (Pelvic Bucket) para alinear el tronco.
+Transferencias: Desplazamiento Cama a Silla a Baño sostenido únicamente por la fuerza de la cintura escapular.
 
-### Transferencias: Desplazamiento Cama a Silla a Baño sostenido únicamente por la fuerza de la cintura escapular.
+Cuidado Cutáneo/Estomas: Alivio de presión cada 15-20 min e higiene de colostomía, zona de injertos y área perineal.
 
-### Cuidado Cutáneo/Estomas: Alivio de presión cada 15-20 min e higiene de colostomía, zona de injertos y área perineal.
+Bipedestación: Bipedestación estática asistida con andador/ortesis para salud vascular, digestiva y ósea.
 
-### Bipedestación: Bipedestación estática asistida con andador/ortesis para salud vascular, digestiva y ósea.
+**4\. Barreras y facilitadores**
 
-### **4\. Barreras y facilitadores**
+Barreras: Pérdida del punto de apoyo óseo isquiático derecho. Alto riesgo de úlceras por presión (UPP) en el isquión sano (izquierdo) e injertos. Interferencia de la colostomía con cinturones o cinchas de sujeción pélvica. Barreras arquitectónicas en el entorno urbano y transporte.
 
-### Barreras: Pérdida del punto de apoyo óseo isquiático derecho. Alto riesgo de úlceras por presión (UPP) en el isquión sano (izquierdo) e injertos. Interferencia de la colostomía con cinturones o cinchas de sujeción pélvica. Barreras arquitectónicas en el entorno urbano y transporte.
+Facilitadores: Buena potencia muscular en brazos y hombros. Cesta pélvica/asiento adaptado con ventana para la bolsa de colostomía. Atención multidisciplinaria en rehabilitación integral (INR). Red de apoyo familiar motivada en el hogar.
 
-### Facilitadores: Buena potencia muscular en brazos y hombros. Cesta pélvica/asiento adaptado con ventana para la bolsa de colostomía. Atención multidisciplinaria en rehabilitación integral (INR). Red de apoyo familiar motivada en el hogar.
+**5\. Mapa de dolor**
 
-### **5\. Mapa de dolor**
+Colapso Postural: Fatiga muscular en tronco/espalda por la inclinación continua hacia el lado amputado.
 
-### Colapso Postural: Fatiga muscular en tronco/espalda por la inclinación continua hacia el lado amputado.
+Hiperpresión Isquiática: Carga de peso concentrada al 100% en el único isquión presente (izquierdo).
 
-### Hiperpresión Isquiática: Carga de peso concentrada al 100% en el único isquión presente (izquierdo).
+Dolor Neuropático/Fantasma: Combinación de dolor medular paroxístico con sensación de miembro fantasma pélvico.
 
-### Dolor Neuropático/Fantasma: Combinación de dolor medular paroxístico con sensación de miembro fantasma pélvico.
+Impacto Psicoemocional: Alteración de la imagen corporal y pérdida de autonomía en la higiene íntima/sexual.
 
-### Impacto Psicoemocional: Alteración de la imagen corporal y pérdida de autonomía en la higiene íntima/sexual.
+**6\. Expectativas del usuario (simuladas o tomadas de la literatura)**
 
-### 
+Sedestación Confortable: Lograr estar sentado de forma prolongada sin dolor dorsal ni colapso de tronco.
 
-### **6\. Expectativas del usuario (simuladas o tomadas de la literatura)**
+Autonomía en Transferencias: Moverse e ingresar a la cama, silla o vehículo sin depender de la fuerza física de un familiar.
 
-### Sedestación Confortable: Lograr estar sentado de forma prolongada sin dolor dorsal ni colapso de tronco.
+Integridad Cutánea: Prevenir úlceras e infecciones en zonas de injerto, colostomía y periné.
 
-### Autonomía en Transferencias: Moverse e ingresar a la cama, silla o vehículo sin depender de la fuerza física de un familiar.
+Bipedestación Terapéutica: Erguirse de forma asistida para interacción visual de frente y mejora intestinal.
 
-### Integridad Cutánea: Prevenir úlceras e infecciones en zonas de injerto, colostomía y periné.
+Reintegración: Lograr independencia en AVD, orientación laboral y salud sexual.
 
-### Bipedestación Terapéutica: Erguirse de forma asistida para interacción visual de frente y mejora intestinal.
+**CASO 3: Hemipelvectomía parcial derecha con lesión de la médula espinal**
 
-### Reintegración: Lograr independencia en AVD, orientación laboral y salud sexual.
+**1\. Descripción breve del caso.** 
 
-### 
+El caso corresponde a un paciente masculino de 60 años con paraplejia secundaria a lesión medular, asociado a amputación parcial de la pelvis derecha y desarticulación de cadera izquierda. Su principal limitación funcional era la incapacidad para mantener una sedestación estable debido a la asimetría pélvica. Para mejorar esta condición se diseñó un socket protésico transpelviano tipo bucket, con estructura rígida y revestimiento blando, orientado a estabilizar el tronco, redistribuir las presiones y facilitar el manejo de la estoma y cistostomía. Después de dos meses de entrenamiento rehabilitador, el paciente recuperó la independencia en las actividades de la vida diaria, incluida la conducción. 
 
-### **CASO 3: Hemipelvectomía parcial derecha con lesión de la médula espinal**
+**2\. Perfil funcional**
 
-### **1\. Descripción breve del caso.** 
+El paciente conserva la función de los miembros superiores, lo que permite participar en el autocuidado, las transferencias y el manejo del socket. Sus principales limitaciones son la paraplejia y la pérdida extensa de estructuras pélvicas, que inicialmente impedían mantener una sedestación estable. El socket transpelviano permitió estabilizar el tronco y redistribuir las presiones; después de dos meses de rehabilitación, el paciente logró independencia en las actividades de la vida diaria, conducción y colocación/retirada del dispositivo. \[6\] Debido a las demandas de movilidad y transferencia, es importante proteger la función de los miembros superiores y desarrollar estrategias funcionales adaptadas. \[7\] Asimismo, existe riesgo de lesiones por presión, por lo que se requiere vigilancia de la piel y redistribución periódica de las cargas. \[8\]
 
-### El caso corresponde a un paciente masculino de 60 años con paraplejia secundaria a lesión medular, asociado a amputación parcial de la pelvis derecha y desarticulación de cadera izquierda. Su principal limitación funcional era la incapacidad para mantener una sedestación estable debido a la asimetría pélvica. Para mejorar esta condición se diseñó un socket protésico transpelviano tipo bucket, con estructura rígida y revestimiento blando, orientado a estabilizar el tronco, redistribuir las presiones y facilitar el manejo de la estoma y cistostomía. Después de dos meses de entrenamiento rehabilitador, el paciente recuperó la independencia en las actividades de la vida diaria, incluida la conducción. 
+**3\. Mapa de actividades críticas**
 
-### **2\. Perfil funcional**
+En vida diaria, vestido, higiene y transferencias/movilidad pueden realizarse con independencia tras la rehabilitación, aunque requieren sedestación estable y estrategias adaptadas a la paraplejia; esto favorece la autonomía. \[6\], \[7\] En actividades laborales, educativas y comunitarias, la conducción fue recuperada de forma independiente, mientras que los desplazamientos y la participación social pueden requerir adaptaciones del transporte y entorno; su realización favorece la integración. \[6\], \[7\] En rehabilitación, el entrenamiento de sedestación, transferencias y colocación/retirada del socket son prioritarios; inicialmente pueden requerir asistencia, pero buscan la independencia funcional y una movilidad segura. \[6\], \[7\] En prevención y mantenimiento, la inspección de la piel, los alivios de presión y el control del ajuste del socket deben incorporarse a la rutina; las principales dificultades son el riesgo de lesiones cutáneas y la necesidad de vigilancia continua, por lo que estas medidas permiten prevenir complicaciones y preservar la calidad de vida. \[6\], \[8\] 
 
-### El paciente conserva la función de los miembros superiores, lo que permite participar en el autocuidado, las transferencias y el manejo del socket. Sus principales limitaciones son la paraplejia y la pérdida extensa de estructuras pélvicas, que inicialmente impedían mantener una sedestación estable. El socket transpelviano permitió estabilizar el tronco y redistribuir las presiones; después de dos meses de rehabilitación, el paciente logró independencia en las actividades de la vida diaria, conducción y colocación/retirada del dispositivo. \[6\] Debido a las demandas de movilidad y transferencia, es importante proteger la función de los miembros superiores y desarrollar estrategias funcionales adaptadas. \[7\] Asimismo, existe riesgo de lesiones por presión, por lo que se requiere vigilancia de la piel y redistribución periódica de las cargas. \[8\]
+**4\. Barreras y facilitadores**
 
-### **3\. Mapa de actividades críticas**
+Las principales barreras físicas son la paraplejia, la pérdida extensa de estructuras pélvicas, la dificultad para mantener el equilibrio sentado y el riesgo de lesiones cutáneas. También pueden existir barreras ambientales, como escaleras, baños no adaptados o transporte inaccesible, aunque estas no fueron descritas específicamente en el caso. Entre los facilitadores destacan la conservación de la función de los miembros superiores, la rehabilitación especializada y, principalmente, el socket transpelviano personalizado, que proporciona estabilidad, redistribuye las presiones y permite su colocación independiente. 
 
-### En vida diaria, vestido, higiene y transferencias/movilidad pueden realizarse con independencia tras la rehabilitación, aunque requieren sedestación estable y estrategias adaptadas a la paraplejia; esto favorece la autonomía. \[6\], \[7\] En actividades laborales, educativas y comunitarias, la conducción fue recuperada de forma independiente, mientras que los desplazamientos y la participación social pueden requerir adaptaciones del transporte y entorno; su realización favorece la integración. \[6\], \[7\] En rehabilitación, el entrenamiento de sedestación, transferencias y colocación/retirada del socket son prioritarios; inicialmente pueden requerir asistencia, pero buscan la independencia funcional y una movilidad segura. \[6\], \[7\] En prevención y mantenimiento, la inspección de la piel, los alivios de presión y el control del ajuste del socket deben incorporarse a la rutina; las principales dificultades son el riesgo de lesiones cutáneas y la necesidad de vigilancia continua, por lo que estas medidas permiten prevenir complicaciones y preservar la calidad de vida. \[6\], \[8\] 
+**5\. Mapa de dolor (Pain Points)**
 
-### **4\. Barreras y facilitadores**
+Los principales puntos críticos funcionales fueron la incapacidad inicial para sentarse, la necesidad de controlar continuamente las presiones sobre los tejidos residuales, la dificultad potencial de las transferencias y la dependencia inicial para utilizar el dispositivo. No debe asumirse la presencia de dolor intenso, ya que el artículo no proporciona una escala específica de dolor. La incomodidad y el riesgo de lesión cutánea constituyen, por lo tanto, puntos críticos más sustentados por la evidencia del caso. 
 
-### Las principales barreras físicas son la paraplejia, la pérdida extensa de estructuras pélvicas, la dificultad para mantener el equilibrio sentado y el riesgo de lesiones cutáneas. También pueden existir barreras ambientales, como escaleras, baños no adaptados o transporte inaccesible, aunque estas no fueron descritas específicamente en el caso. Entre los facilitadores destacan la conservación de la función de los miembros superiores, la rehabilitación especializada y, principalmente, el socket transpelviano personalizado, que proporciona estabilidad, redistribuye las presiones y permite su colocación independiente. 
+**6\. Expectativas del usuario** 
 
-### **5\. Mapa de dolor (Pain Points)**
-
-### Los principales puntos críticos funcionales fueron la incapacidad inicial para sentarse, la necesidad de controlar continuamente las presiones sobre los tejidos residuales, la dificultad potencial de las transferencias y la dependencia inicial para utilizar el dispositivo. No debe asumirse la presencia de dolor intenso, ya que el artículo no proporciona una escala específica de dolor. La incomodidad y el riesgo de lesión cutánea constituyen, por lo tanto, puntos críticos más sustentados por la evidencia del caso. 
-
-### **6\. Expectativas del usuario** 
-
-### Las expectativas funcionales pueden inferirse de los objetivos de la intervención: recuperar una sedestación estable y confortable, realizar las actividades de la vida diaria con mayor independencia, colocarse y retirarse el socket sin asistencia, prevenir lesiones cutáneas y recuperar la movilidad y participación comunitaria. El resultado obtenido fue favorable, ya que el paciente consiguió independencia en las actividades de la vida diaria y conducción después del programa rehabilitador. 
+Las expectativas funcionales pueden inferirse de los objetivos de la intervención: recuperar una sedestación estable y confortable, realizar las actividades de la vida diaria con mayor independencia, colocarse y retirarse el socket sin asistencia, prevenir lesiones cutáneas y recuperar la movilidad y participación comunitaria. El resultado obtenido fue favorable, ya que el paciente consiguió independencia en las actividades de la vida diaria y conducción después del programa rehabilitador. 
 
 **REFERENCIAS BIBLIOGRÁFICAS:**
 
