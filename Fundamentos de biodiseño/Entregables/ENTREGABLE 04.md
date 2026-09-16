@@ -135,41 +135,48 @@ Retroalimentación sensorial (Propiocepción artificial): Aunque la prótesis aj
 
 Resistencia ambiental y durabilidad extrema: Los dispositivos electromecánicos activos siguen teniendo limitaciones para su uso sumergido en agua, resistencia a temperaturas extremas o ambientes con mucho polvo/arena sin degradar los componentes dinámicos del actuador lineal.
 
-**Tecnología N°4:** \[Nombre del Producto\]\[9\]
+**Tecnología N°4:** \[Permobil\]\[9\]
 
-\[Autor,empresa o institución responsable\]
+\[(división ROHO, EE. UU.).\]
 
-\[Breve descripción funcional: qué necesidad aborda y cómo\]
+\[Es un sistema de sedestación a medida diseñado mediante la tecnología de flotación seca (Dry Flotation). Aborda la necesidad de estabilidad postural severa y prevención de daño tisular en pacientes con amputaciones complejas como la hemipelvectomía. Funciona mediante un conjunto de celdas de aire de neopreno interconectadas y configurables de forma asimétrica, lo que permite rellenar el vacío anatómico del hemicuerpo amputado para nivelar la pelvis (evitando la escoliosis paralítica) y crear recortes o ventanas de descarga con presión cero sobre zonas frágiles como prolapsos, cicatrices de injertos u ostomas. \]
 
-**Ventajas:** \[Innovaciones, impacto para el usuario, facilidad de uso, accesibilidad\]
+**Ventajas:** \[Inmersión y Nivelación Asimétrica: Permite personalizar la altura y cantidad de celdas para compensar la falta del anillo pélvico y mantener la columna alineada.
+Protección Tisular Máxima: Distribuye el peso en toda la superficie de contacto y reduce las fuerzas de cizallamiento durante la propulsión de la silla de ruedas.
+Ajuste Neumático Zonificado: La válvula ISOFLO Memory Control permite bloquear el flujo de aire por cuadrantes para fijar la postura deseada.
+Ventanas de Descarga Exactas: Posibilidad de retirar celdas en puntos anatómicos sensibles para anular la presión en zonas con injertos o prolapso.
+\]
 
-**Desventajas:** \[Limitaciones técnicas, costos, mantenimiento, barreras de adopción\]
+**Desventajas:** \[Costo Elevado: Al ser un producto fabricado exclusivamente a medida, su precio es significativamente superior al de cojines convencionales.
+Sensibilidad a Pinchazos e Hinchado: Requiere verificación constante de la presión interna; una fuga de aire o una mala calibración anula por completo la protección postural y tisular.
+Mantenimiento Específico: El neopreno requiere higiene constante ante fugas de colostomía o fluidos para evitar la degradación del material.
+Instrucción Técnica Requerida: La calibración inicial demanda personal especializado en terapia ocupacional o biomecánica para garantizar la inmersión adecuada.
+\]
 
-\[Imágenes del Producto\]
-
-**Reflexión Final:**
-
-\[¿Qué mejorarías tú en un nuevo prototipo?\]
-
-\[¿Qué necesidad del usuario aún no está suficientemente cubierta?\]
-
-**Tecnología N°5:** \[Nombre del Producto\]\[10\]
-
-\[Autor,empresa o institución responsable\]
-
-\[Breve descripción funcional: qué necesidad aborda y cómo\]
-
-**Ventajas:** \[Innovaciones, impacto para el usuario, facilidad de uso, accesibilidad\]
-
-**Desventajas:** \[Limitaciones técnicas, costos, mantenimiento, barreras de adopción\]
-
-\[Imágenes del Producto\]
+\[\]
 
 **Reflexión Final:**
 
-\[¿Qué mejorarías tú en un nuevo prototipo?\]
+\[¿Qué mejorarías tú en un nuevo prototipo? Integraría una estructura híbrida inteligente de autorregulación. Sustituiría el ajuste manual por micro-sensores de presión piezorresistivos integrados en la base del cojín, conectados a una micro-bomba que ajuste de manera autónoma el volumen de aire en cada cuadrante durante la marcha, reaccionando en tiempo real a los cambios de postura sin depender del monitoreo manual del usuario.
+¿Qué necesidad del usuario aún no está suficientemente cubierta? La gestión térmica y la disipación del sudor en climas cálidos o jornadas prolongadas de sedestación. El neopreno, aunque impermeable y flexible, acumula calor y humedad en la interfaz piel-asiento, lo que incrementa el riesgo de maceración en bordes cicatriciales e injertos sensibles a pesar de la descarga de presión.
+\]
 
-\[¿Qué necesidad del usuario aún no está suficientemente cubierta?\]
+**Tecnología N°5:** \[MOSS (Modular Open-source Seating System)\]\[10\]
+
+\[Quiter T., Lacey M. Mobility Independence Foundation, Universidad de Rochester\]
+
+\[Sistema de asiento modular de código abierto con inclinación y reclinación motorizadas, diseñado para sillas de ruedas eléctricas. Aborda la necesidad de redistribuir cargas y aliviar la presión en usuarios que pasan largos periodos sentados, ofreciendo una alternativa accesible a los sistemas comerciales costosos. Utiliza componentes como Arduino UNO R3, actuadores lineales y un mecanismo de asiento expandible (de 16 a 24 pulgadas).\]
+
+**Ventajas:** \[Permite ajuste y reemplazo de componentes individualmente, el mecanismo ayuda redistribuir presiones y así prevenir úlceras, al ser código abierto permite reparaciones locales sin depender de proveedores.\]
+
+**Desventajas:** \[Desventajas: El prototipo actual está hecho principalmente de madera y conexiones impresas en 3D, por lo que aun no ha sido validado clínicamente ni probado en usuarios reales. La próxima iteración en acero requerirá pruebas de seguridad, resistencia y durabilidad. Su enfoque es principalmente mecánico y no incorpora sensores de presión ni retroalimentación en tiempo real.
+\]
+
+\[\]
+
+**Reflexión Final:**
+
+\[Para la mejora de este prototipo se haria necesario sensores de presión directamente en el cojín y el respaldo para monitorear en tiempo real las zonas de mayor carga. Además, añadiría un sistema de control que ajuste automáticamente la inclinación en función de los datos de presión, creando un ciclo de retroalimentación cerrado, la personalización anatómica para casos complejos como la hemipelvectomía. El asiento expandible es un avance, pero no aborda la asimetría pélvica específica. Una necesidad pendiente es un sistema de soporte pélvico ajustable que compense la pérdida de masa ósea y mantenga la alineación del tronco sin generar puntos de presión adicionales.\]
 
 **Tecnología N.° 6*:*** *mPMAP — Mobile Pressure Mapping App* \[8\]\[9\]
 
