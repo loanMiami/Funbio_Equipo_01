@@ -33,6 +33,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img  src="Funbio_Equipo_01/Recursos/Imágenes/116178.jpg" alt="Imagen 116178" width="90"   > | **Marcos Arias** | Circuitos /Progrmadador| Diseño de prototipos, creatividad aplicada |
 | <img  src="Funbio_Equipo_01/Recursos/Imágenes/116181.jpg" alt="Imagen 116181" width="90"   >  | **Nicolas Barco** | Lider | Comunicación científica, redacción técnica |
 | <img  src="Funbio_Equipo_01/Recursos/Imágenes/116183.jpg" alt="Imagen 116183" width="90"   > | **Fernando Arrunategui** |  Encargado de Documentacion | Programación, análisis de datos, simulación |
+| <img  src="Funbio_Equipo_01/Recursos/Imágenes/116181.jpg" alt="Imagen 116181" width="90"   >  | **Thiago Arroyo** | Prototipado | Diseños de prototipo, Simulación |
 
 ---
 
