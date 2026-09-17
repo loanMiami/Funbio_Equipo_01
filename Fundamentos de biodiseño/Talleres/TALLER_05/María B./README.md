@@ -1,1 +1,0 @@
-Ubicación de los certificados
